@@ -14,7 +14,7 @@ function App() {
         </a>
         ", by "
         <a href="https://www.linkedin.com/in/ellie-s-51088146/" target="_blank">
-          Ellie Spanswick
+          Ellie Spanswick 😀
         </a>
       </small>
     </div>

@@ -17,7 +17,7 @@ function App() {
         >
           Open-source code
         </a>
-        ", by "
+        by
         <a
           href="https://www.linkedin.com/in/ellie-s-51088146/"
           target="_blank"

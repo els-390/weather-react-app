@@ -10,12 +10,20 @@ function App() {
         <Weather />
       </header>
       <small>
-        <a href="https://github.com/els-390/weather-react-app" target="_blank">
+        <a
+          href="https://github.com/els-390/weather-react-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Open-source code
         </a>
         ", by "
-        <a href="https://www.linkedin.com/in/ellie-s-51088146/" target="_blank">
-          Ellie Spanswick 😀
+        <a
+          href="https://www.linkedin.com/in/ellie-s-51088146/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ellie Spanswick
         </a>
       </small>
     </div>
